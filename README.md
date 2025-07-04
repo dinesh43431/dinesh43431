@@ -52,7 +52,7 @@
     <img src="https://img.icons8.com/fluent/48/linkedin.png" alt="LinkedIn" title="LinkedIn" style="margin: 10px;" />
   </a>
   <a href="https://leetcode.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="48" alt="LeetCode" title="LeetCode" style="margin: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" title="LeetCode" style="margin: 10px;" />
   </a>
   <a href="https://github.com/dinesh43431" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" title="GitHub" style="margin: 10px;" />
